@@ -3,7 +3,7 @@
   "edgeSSRModuleMapping": {},
   "cssFiles": {},
   "clientModules": {
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -11,7 +11,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -19,7 +19,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -27,7 +27,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -35,7 +35,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -43,7 +43,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -51,7 +51,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -59,7 +59,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -67,7 +67,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -75,7 +75,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -83,7 +83,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#TODO-APP": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -91,7 +91,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#TODO-APP": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#TODO-APP": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "TODO-APP",
       "chunks": [
@@ -99,7 +99,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#__NA": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -107,7 +107,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#__NA": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#__NA": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "__NA",
       "chunks": [
@@ -115,7 +115,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#location": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -123,7 +123,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#location": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#location": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "location",
       "chunks": [
@@ -131,7 +131,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#\"http": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -139,7 +139,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#\"http": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#\"http": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "\"http",
       "chunks": [
@@ -147,7 +147,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#searchParams": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -155,7 +155,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#searchParams": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#searchParams": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "searchParams",
       "chunks": [
@@ -163,7 +163,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#pathname": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -171,7 +171,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pathname": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#pathname": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pathname",
       "chunks": [
@@ -179,7 +179,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#type": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -187,7 +187,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#type": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#type": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "type",
       "chunks": [
@@ -195,7 +195,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#cache": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -203,7 +203,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#cache": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#cache": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "cache",
       "chunks": [
@@ -211,7 +211,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#status": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -219,7 +219,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#status": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#status": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "status",
       "chunks": [
@@ -227,7 +227,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#data": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -235,7 +235,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#data": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#data": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "data",
       "chunks": [
@@ -243,7 +243,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#subTreeData": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -251,7 +251,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#subTreeData": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#subTreeData": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "subTreeData",
       "chunks": [
@@ -259,7 +259,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#parallelRoutes": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -267,7 +267,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#parallelRoutes": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#parallelRoutes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "parallelRoutes",
       "chunks": [
@@ -275,7 +275,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#mutable": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -283,7 +283,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#mutable": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#mutable": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "mutable",
       "chunks": [
@@ -291,7 +291,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#isExternalUrl": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -299,7 +299,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#isExternalUrl": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#isExternalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "isExternalUrl",
       "chunks": [
@@ -307,7 +307,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#locationSearch": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -315,7 +315,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#locationSearch": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#locationSearch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "locationSearch",
       "chunks": [
@@ -323,7 +323,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#back": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -331,7 +331,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#back": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#back": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "back",
       "chunks": [
@@ -339,7 +339,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#forward": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -347,7 +347,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#forward": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#forward": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "forward",
       "chunks": [
@@ -355,7 +355,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#prefetch": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -363,7 +363,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#prefetch": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#prefetch": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "prefetch",
       "chunks": [
@@ -371,7 +371,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#kind": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -379,7 +379,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#kind": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#kind": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "kind",
       "chunks": [
@@ -387,7 +387,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#replace": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -395,7 +395,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#replace": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#replace": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "replace",
       "chunks": [
@@ -403,7 +403,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#push": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -411,7 +411,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#push": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#push": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "push",
       "chunks": [
@@ -419,7 +419,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#refresh": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -427,7 +427,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#refresh": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#refresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "refresh",
       "chunks": [
@@ -435,7 +435,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#origin": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -443,7 +443,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#origin": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#origin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "origin",
       "chunks": [
@@ -451,7 +451,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#fastRefresh": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -459,7 +459,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#fastRefresh": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#fastRefresh": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "fastRefresh",
       "chunks": [
@@ -467,7 +467,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#router": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -475,7 +475,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#router": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "router",
       "chunks": [
@@ -483,7 +483,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#(eg": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -491,7 +491,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#(eg": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#(eg": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "(eg",
       "chunks": [
@@ -499,7 +499,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#url": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -507,7 +507,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#url": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#url": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "url",
       "chunks": [
@@ -515,7 +515,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#tree": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -523,7 +523,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#tree": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#tree": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "tree",
       "chunks": [
@@ -531,7 +531,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#notFound": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -539,7 +539,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFound": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#notFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFound",
       "chunks": [
@@ -547,7 +547,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#notFoundStyles": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -555,7 +555,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#notFoundStyles": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#notFoundStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "notFoundStyles",
       "chunks": [
@@ -563,7 +563,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#asNotFound": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -571,7 +571,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#asNotFound": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#asNotFound": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "asNotFound",
       "chunks": [
@@ -579,7 +579,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#pushRef": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -587,7 +587,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#pushRef": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#pushRef": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "pushRef",
       "chunks": [
@@ -595,7 +595,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#canonicalUrl": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -603,7 +603,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#canonicalUrl": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#canonicalUrl": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "canonicalUrl",
       "chunks": [
@@ -611,7 +611,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#sync": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -619,7 +619,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#sync": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#sync": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "sync",
       "chunks": [
@@ -627,7 +627,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#value": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -635,7 +635,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#value": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "value",
       "chunks": [
@@ -643,7 +643,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#childNodes": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -651,7 +651,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#childNodes": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#childNodes": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "childNodes",
       "chunks": [
@@ -659,7 +659,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#assetPrefix": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -667,7 +667,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#assetPrefix": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#assetPrefix": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "assetPrefix",
       "chunks": [
@@ -675,7 +675,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\app-router.js#errorComponent": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -683,7 +683,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#errorComponent": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/app-router.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "errorComponent",
       "chunks": [
@@ -691,7 +691,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -699,7 +699,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -707,7 +707,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -715,7 +715,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -723,7 +723,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -731,7 +731,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -739,7 +739,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -747,7 +747,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -755,7 +755,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -763,7 +763,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -771,7 +771,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#error": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -779,7 +779,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#error": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#error": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "error",
       "chunks": [
@@ -787,7 +787,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#https": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -795,7 +795,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#https": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#https": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "https",
       "chunks": [
@@ -803,7 +803,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontFamily": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -811,7 +811,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontFamily": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#fontFamily": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontFamily",
       "chunks": [
@@ -819,7 +819,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#height": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -827,7 +827,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#height": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#height": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "height",
       "chunks": [
@@ -835,7 +835,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#textAlign": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -843,7 +843,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#textAlign": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#textAlign": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "textAlign",
       "chunks": [
@@ -851,7 +851,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#display": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -859,7 +859,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#display": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#display": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "display",
       "chunks": [
@@ -867,7 +867,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#flexDirection": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -875,7 +875,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#flexDirection": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#flexDirection": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "flexDirection",
       "chunks": [
@@ -883,7 +883,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#alignItems": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -891,7 +891,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#alignItems": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#alignItems": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "alignItems",
       "chunks": [
@@ -899,7 +899,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#justifyContent": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -907,7 +907,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#justifyContent": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#justifyContent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "justifyContent",
       "chunks": [
@@ -915,7 +915,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#desc": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -923,7 +923,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#desc": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#desc": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "desc",
       "chunks": [
@@ -931,7 +931,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#text": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -939,7 +939,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#text": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#text": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "text",
       "chunks": [
@@ -947,7 +947,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontSize": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -955,7 +955,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontSize": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#fontSize": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontSize",
       "chunks": [
@@ -963,7 +963,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#fontWeight": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -971,7 +971,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#fontWeight": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#fontWeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "fontWeight",
       "chunks": [
@@ -979,7 +979,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#lineHeight": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -987,7 +987,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#lineHeight": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#lineHeight": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "lineHeight",
       "chunks": [
@@ -995,7 +995,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#margin": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -1003,7 +1003,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#margin": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#margin": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "margin",
       "chunks": [
@@ -1011,7 +1011,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#reset": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -1019,7 +1019,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#reset": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "reset",
       "chunks": [
@@ -1027,7 +1027,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#style": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -1035,7 +1035,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#style": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#style": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "style",
       "chunks": [
@@ -1043,7 +1043,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#\"Digest": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -1051,7 +1051,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#\"Digest": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#\"Digest": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "\"Digest",
       "chunks": [
@@ -1059,7 +1059,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorComponent": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -1067,7 +1067,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorComponent": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#errorComponent": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorComponent",
       "chunks": [
@@ -1075,7 +1075,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#errorStyles": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -1083,7 +1083,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#errorStyles": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#errorStyles": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "errorStyles",
       "chunks": [
@@ -1091,7 +1091,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\error-boundary.js#value": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -1099,7 +1099,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#value": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/error-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "value",
       "chunks": [
@@ -1107,7 +1107,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -1115,7 +1115,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -1123,7 +1123,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -1131,7 +1131,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -1139,7 +1139,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -1147,7 +1147,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -1155,7 +1155,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -1163,7 +1163,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -1171,7 +1171,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -1179,7 +1179,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -1187,7 +1187,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirect": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -1195,7 +1195,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirect": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirect": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirect",
       "chunks": [
@@ -1203,7 +1203,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#redirectType": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -1211,7 +1211,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#redirectType": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#redirectType": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "redirectType",
       "chunks": [
@@ -1219,7 +1219,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#reset": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -1227,7 +1227,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#reset": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#reset": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "reset",
       "chunks": [
@@ -1235,7 +1235,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#router": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -1243,7 +1243,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#router": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#router": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "router",
       "chunks": [
@@ -1251,7 +1251,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#value": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -1259,7 +1259,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#value": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/redirect-boundary.js#value": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "value",
       "chunks": [
@@ -1267,7 +1267,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -1275,7 +1275,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -1283,7 +1283,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -1291,7 +1291,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -1299,15 +1299,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
-      "name": "default",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -1315,7 +1307,15 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+      "name": "default",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -1323,7 +1323,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -1331,7 +1331,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -1339,7 +1339,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -1347,7 +1347,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -1355,7 +1355,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -1363,7 +1363,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -1371,7 +1371,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -1379,7 +1379,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -1387,7 +1387,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -1395,7 +1395,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -1403,7 +1403,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -1411,7 +1411,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -1419,7 +1419,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -1427,7 +1427,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -1435,7 +1435,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -1443,7 +1443,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -1451,7 +1451,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -1459,7 +1459,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -1467,7 +1467,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -1475,7 +1475,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -1483,7 +1483,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -1491,7 +1491,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -1499,7 +1499,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -1507,7 +1507,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -1515,7 +1515,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -1523,7 +1523,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -1531,7 +1531,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -1539,7 +1539,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -1547,7 +1547,7 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -1555,12 +1555,12 @@
       ],
       "async": false
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\src\\styles\\globals.css#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/src/styles/globals.css#": {
       "id": "./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[2]!./src/styles/globals.css",
       "name": "default",
       "chunks": []
     },
-    "C:\\Users\\rajva\\Desktop\\bugoff\\BuggOff-React-Ecom\\node_modules\\react-responsive-carousel\\lib\\styles\\carousel.min.css#": {
+    "/Users/dhruvraj/Documents/superteam/work/BuggOff-React-Ecom/node_modules/react-responsive-carousel/lib/styles/carousel.min.css#": {
       "id": "./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[1]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[15].use[2]!./node_modules/react-responsive-carousel/lib/styles/carousel.min.css",
       "name": "default",
       "chunks": []
