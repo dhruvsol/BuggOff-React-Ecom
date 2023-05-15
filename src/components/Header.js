@@ -30,7 +30,7 @@ function Header() {
                     </div>
 
                     <Link href="/cart">
-                        <div className="relative link flex-col items-center mb-4">
+                        <div className="relative link flex-col items-center">
                             <span className="h-4 w-4 bg-yellow-100 text-black text-center py-[1px] px-[2px] rounded-full font-bold ml-5">0</span>
                             <ShoppingCartIcon className="h-7" />
                             <p className="hidden md:inline font-semibold text-sm md:text-sm mt-2">Cart</p>
@@ -43,11 +43,10 @@ function Header() {
 
             {/* Bottom nav */}
             <div>
-                <div className="flex items-center space-x-3 p-2 pl-6 bg-black text-white text-sm gap-5">
+                <div className="flex items-center space-x-3 p-2 pl-6 bg-black text-white text-sm gap-5 ">
 
 
                     <p className="link font-semibold text-sm  hover:text-blue-500">Business</p>
-
                     <p className="link hidden lg:inline-flex font-semibold text-sm hover:text-blue-500">Electronics</p>
                     <p className="link hidden lg:inline-flex font-semibold text-sm font hover:text-blue-500">Food & Grocery</p>
 
