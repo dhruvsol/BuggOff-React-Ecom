@@ -15,7 +15,7 @@ function Product({ id, title, price, description, category, image }) {
     const [hasPrime] = useState(Math.random() < 0.5);
 
     return (
-        <div className="flex flex-col w-80 mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
+        <div className="flex flex-col w-80 mx-auto bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-lg">
             <div className="relative pb-3/4 flex justify-center h-60 w-full  ">
                 <Image src={image} width={200} height={200} className='object-contain max-h-60'  />
             </div>

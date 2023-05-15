@@ -6,8 +6,8 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 function Banner(props) {
   return (
     <div className='relative w-[80rem] mx-auto '>
-        <Carousel autoPlay infiniteLoop showStatus={false} showIndicators={false} showThumbs={false} interval={4000}>
-          {props.products.slice(0,3).map(({image})=>{
+        <Carousel autoPlay infiniteLoop showStatus={false} showIndicators={false} showThumbs={false} interval={2000}>
+          {props.products.slice(0,20).map(({image})=>{
 
             return (
 
