@@ -31,7 +31,7 @@ function Header() {
 
                     <Link href="/cart">
                         <div className="relative link flex items-center">
-                            <span className="fixed top-0 right-10 md:right-7 h-4 w-4 bg-yellow-100 text-center rounded-full text-black font-bold mt-2 mr-3">0</span>
+                            <span className="fixed top-0 right-10 md:right-7 h-4 w-4 bg-yellow-100 text-center rounded-full text-black font-bold mt-6 mr-3">0</span>
                             <ShoppingCartIcon className="h-7" />
                             <p className="hidden md:inline font-semibold text-sm md:text-sm mt-2">Cart</p>
                         </div>
