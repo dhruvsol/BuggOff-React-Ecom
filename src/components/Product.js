@@ -21,7 +21,7 @@ function Product({ id, title, price, description, category, image }) {
             </div>
             <div className="p-4 flex flex-col flex-grow">
                 <p className="text-gray-500 uppercase text-xs mb-1">{category}</p>
-                <h2 className="text-lg font-medium mb-1 h-14">{title}</h2>
+                <h2 className="text-lg font-medium mb-1 h-14 line-clamp-2">{title}</h2>
                 <div className="flex items-center mb-1">
                     {Array(rating)
                         .fill()
