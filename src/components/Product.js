@@ -21,7 +21,7 @@ function Product({ id, title, price, description, category, image }) {
             </div>
             <div className="p-4 flex flex-col flex-grow">
                 <p className="text-gray-500 uppercase text-xs mb-1">{category}</p>
-                <h2 className="text-lg font-medium mb-1">{title}</h2>
+                <h2 className="text-lg font-medium mb-1 h-14">{title}</h2>
                 <div className="flex items-center mb-1">
                     {Array(rating)
                         .fill()
@@ -29,7 +29,7 @@ function Product({ id, title, price, description, category, image }) {
                             <StarIcon key={i} className="h-5 w-5 text-yellow-1  00" />
                         ))}
                 </div>
-                <p className="text-gray-500 text-sm mb-2 line-clamp-3">{description}</p>
+                <p className="text-gray-500 text-sm mb-2 line-clamp-3 h-14">{description}</p>
                 <div className="flex items-center mb-2">
                     <Currency quantity={price+800} currency="INR" />
                     

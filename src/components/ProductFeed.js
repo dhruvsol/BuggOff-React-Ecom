@@ -4,7 +4,7 @@ import Product from './Product'
 
 function ProductFeed({ products }) {
   return (
-    <div className="grid gap-2 grid-flow-row-dense md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mx-auto space-evenly px-10">
+    <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 mx-auto justify-evenly px-10">
 
       {products.slice(0, 4).map(({ id, title, price, description, category, image }) => (
         <Product
