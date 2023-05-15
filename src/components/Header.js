@@ -22,7 +22,7 @@ function Header() {
                 </div>
                 {/* Right */}
                 <div className="text-white flex items-center text-xs space-x-6 mx-6 whitespace-nowrap mt-5">
-                    <div className="link">
+                    <div className="mb-4">
                         <button className="bg-blue-500 h-10 w-20 text-white py-2 rounded-lg font-medium transition-colors duration-300 hover:bg-blue-600">
                             <p className="font-semibold text-base md:text-sm">Sign Up</p>
                         </button>
@@ -30,8 +30,8 @@ function Header() {
                     </div>
 
                     <Link href="/cart">
-                        <div className="relative link flex items-center">
-                            <span className="fixed top-0 right-10 md:right-7 h-4 w-4 bg-yellow-100 text-center rounded-full text-black font-bold mt-6 mr-3">0</span>
+                        <div className="relative link flex-col items-center mb-4">
+                            <span className="h-4 w-4 bg-yellow-100 text-black text-center py-[1px] px-[2px] rounded-full font-bold ml-5">0</span>
                             <ShoppingCartIcon className="h-7" />
                             <p className="hidden md:inline font-semibold text-sm md:text-sm mt-2">Cart</p>
                         </div>
