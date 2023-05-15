@@ -14,8 +14,8 @@ function Header() {
                 </div>
                 {/* Search */}
                 <div className="ml-5 hidden sm:flex items-center h-10 w-10 rounded-md flex-grow cursor-pointer bg-white">
-                    <input className="h-full w-full border font-normal text-lg rounded-l-md focus:outline-none px-2 " type="text" />
-                    <SearchIcon className="h-12 p-4" />
+                    <input className="h-full w-full border font-normal text-lg rounded-l-md focus:outline-none px-2 bg-white" type="text" />
+                    <SearchIcon className="h-12 p-4 hover:text-blue-500" />
                 </div>
                 {/* Right */}
                 <div className="text-white flex items-center text-xs space-x-6 mx-6 whitespace-nowrap">
