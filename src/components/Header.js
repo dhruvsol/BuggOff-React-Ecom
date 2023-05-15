@@ -13,7 +13,7 @@ function Header() {
                 <div className="mt-2 flex items-center flex-grow sm:flex-grow-0">
                 </div>
                 {/* Search */}
-                <div className="hidden sm:flex items-center h-10 w-10 rounded-md flex-grow cursor-pointer bg-white">
+                <div className="ml-5 hidden sm:flex items-center h-10 w-10 rounded-md flex-grow cursor-pointer bg-white">
                     <input className="h-full w-full border font-normal text-lg rounded-l-md focus:outline-none px-2 " type="text" />
                     <SearchIcon className="h-12 p-4" />
                 </div>
@@ -41,13 +41,13 @@ function Header() {
 
             {/* Bottom nav */}
             <div>
-                <div className="flex items-center space-x-3 p-2 pl-6 bg-black text-white text-sm">
+                <div className="flex items-center space-x-3 p-2 pl-6 bg-black text-white text-sm gap-5">
 
 
-                    <p className="link font-semibold text-sm">Business</p>
+                    <p className="link font-semibold text-sm  hover:text-blue-500">Business</p>
 
-                    <p className="link hidden lg:inline-flex font-semibold text-sm">Electronics</p>
-                    <p className="link hidden lg:inline-flex font-semibold text-sm font">Food & Grocery</p>
+                    <p className="link hidden lg:inline-flex font-semibold text-sm hover:text-blue-500">Electronics</p>
+                    <p className="link hidden lg:inline-flex font-semibold text-sm font hover:text-blue-500">Food & Grocery</p>
 
                 </div>
             </div>
